@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Adarshraj786
-- 👀 I’m interested in Laudaing
+- 👀 I’m interested in Girls
 - 🌱 I’m currently learning Lauda Lehsun
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Bakchodi
+- 📫 How to reach me - chutiya@gmail.com
 
 <!---
 Adarshraj786/Adarshraj786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
